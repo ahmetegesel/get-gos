@@ -1,3 +1,3 @@
-# docker-get-gos
+# get-gos
 
-You can find set of docker-compose.yml files set-up different environemnt for different many thing including frameworks, databases, and so on.
+You can find set of sh scripts, docker-compose.yml, or anyother files to set-up different environemnt for different many things including frameworks, databases, and so on.
