@@ -10,4 +10,4 @@ services:
       - 27017-27019:27017-27019
     volumes:
       - ./init.js:/docker-entrypoint-initdb.d/init.js:ro
-      - ./mongo-volume:/data/db
+      - /data/db
